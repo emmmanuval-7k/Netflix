@@ -1,0 +1,33 @@
+.next1{
+     height: 1px;
+     color: white;
+     background: linear-gradient(90deg,#777 0,rgba(51,51,51,.5) 50%,#777);
+     /* margin-left: 105px; */
+     margin-left: 5%;
+     margin-right: 8%;
+     /* margin-right: 120px; */
+     margin-top: 80px;
+     display: flex;
+}
+ 
+.next2{
+    font-weight: 600;
+    font-size: 18px;
+    /* padding-left: 700px; */
+    padding-left: 35%;
+    padding-top: 30px;
+    color: #a3a3a3;
+    display: flex;
+}
+.next3{
+    height: 1px;
+    color: white;
+    background: linear-gradient(90deg,#777 0,rgba(51,51,51,.5) 50%,#777);
+    /* margin-left: 105px;
+    margin-right: 120px; */
+    margin-left: 5%;
+     margin-right: 8%;
+    margin-top: 30px;
+    display: flex;
+}
+ 

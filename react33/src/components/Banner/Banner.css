@@ -1,0 +1,170 @@
+.banner {
+
+    background-image: url(https://occ-0-2849-3646.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABa8IXG6QsIiB663K_eVXj6QoDtN76B2zYxXMI2mAD_F4P0UZDXmRfrH3GDJ6yCcRi3r1hPTEhoQyBqcbB3r_mTom_7cvHjhW94vH.jpg?r=cca);
+    background-size: cover;
+    /* margin: auto; */
+    width: 100%;
+    /* padding: 0px 10px 0px 0px; */
+    margin-right: 500px;
+/* height: 30%; */
+max-width: 97%;
+}
+
+/* .banner1 {
+    background-image: linear-gradient(to right,  transparent, rgba(37, 37, 37, .61), #111);
+    width: 35%;
+     
+     
+} */
+
+
+.fade_left {
+    background: linear-gradient(to right, #000000, #ffffff);
+    height: 1050px;
+    width: 35%;
+    background-image: linear-gradient(120deg, transparent, rgba(37, 37, 37, .61), #111);
+
+}
+
+.imglogo {
+    height: 210px;
+    width: 550px;
+    /* width: auto; */
+
+    position:  absolute;
+    margin-top: 25%;
+    /* margin-left: 0%; */
+    /* padding: 0px 35px 0px 0px; */
+    /* padding-bottom: 200px; */
+    /* box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px; */
+}
+
+.banner .imgcontent {
+    position: relative;
+    height: 100px;
+    width: 490px;
+    margin-bottom: 150px;
+
+}
+
+.banner .content {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    position: relative;
+    width: 90%;
+    /* background-color: aquamarine;  */
+    
+}
+
+.banner .smallcontent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 800px;
+    min-width: 500px;
+    height: 700px;
+    padding: 16px 32px 64px 0;
+    position: relative;
+    width: 35%;
+    z-index: 2;
+    /* background-color: blue;  */
+}
+
+
+
+.vikings {
+    margin: auto;
+     
+    color: #fff;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+.h1{
+    /* padding-top: 10%; */
+    color: #fff;
+}
+.two {
+    margin: auto;
+    padding-top: 100px;
+    color: grey;
+
+}
+
+.title2 {
+    margin: auto;
+    padding-top: 12px;
+    color: #fff;
+    word-spacing: 3px;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+
+.title3 {
+    margin: auto;
+    padding-top: 12px;
+    color: #fff;
+}
+
+.starring {
+    color: grey;
+}
+
+
+
+.smallnavbar {
+    position: relative;
+    margin: auto;
+    top: 0;
+    width: 87%;
+    height: 20px;
+    padding: 20px;
+    display: flex;
+    /* justify-content: space-between; */
+    background-color: #181818;
+    /* margin-left: 105px; */
+    /* margin-right: 110px; */
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-top: 180px;
+}
+
+.join1 {
+    position: absolute;
+    right: 85px;
+    color: #fff;
+    background-color: red;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, .45);
+    border-radius: 3px;
+    line-height: 32px;
+    width: 110px;
+    border: none;
+    font-size: 12px;
+    bottom: 15px;
+    display: flex;
+    padding-left: 23px;
+    
+}
+
+.header1 {
+    position: absolute;
+    left: 2%;
+    color: #fff;
+    font-weight: 650;
+    bottom: 20px;
+    display: flex;
+    /* background-color: aqua; */
+    width: 900px;
+    height: 50px;
+    padding-top: 40px;
+}
+ .logo1{
+    padding-top: 10px;
+    height: 60px;
+     
+ }
+.logo11{
+
+    /* background-color: rgb(94, 19, 147); */
+    width: 400px;
+    height: 70px;
+    padding: 26px 0px 0px 13px;
+} 
+ 

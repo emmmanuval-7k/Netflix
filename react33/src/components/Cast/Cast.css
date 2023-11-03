@@ -1,0 +1,20 @@
+ .cast1{
+    color: #fff;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    white-space: pre-wrap;
+}
+.cast{
+    margin: 0;
+    margin-top: 250px;
+    margin-right: 400px;
+    position: relative;
+    background-color: aqua;
+    height: auto;
+    width: 100%;
+}
+.cast2{
+    list-style: row;
+} 

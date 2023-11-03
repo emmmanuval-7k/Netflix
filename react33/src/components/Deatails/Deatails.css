@@ -1,0 +1,26 @@
+ .cardcontainer16d {
+     display: grid;
+     /* padding: 100px 10px 100px 100px; */
+     grid-template-columns: repeat(auto-fit, minmax(290px, 4fr));
+     grid-template-rows: repeat(auto-fit, minmax(100px, 4fr));
+
+     margin: 20px 100px 30px 100px;
+ }
+
+ .commingsoond {
+     color: #fff;
+     margin: 180px 0px 0px 100px;
+     line-height: 50px;
+     font-weight: 450;
+ }
+
+ .imgbox16d h3 {
+      
+     color: #a3a3a3;
+ }
+
+ .imgbox16d h5 {
+    color: #fff;
+     font-weight: 800;
+     font-size: 15px;
+ }

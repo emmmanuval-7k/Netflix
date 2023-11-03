@@ -1,0 +1,29 @@
+.cardcontainer151515{
+  width: 100%;
+  height: 640px;  
+  display: grid;
+    grid-template-columns:  repeat(auto-fit,minmax(290px,4fr));
+    grid-template-rows:  repeat(auto-fit,minmax(220px,6fr));
+      padding: 10px 0px 0px 99px; 
+      /* background-color: aqua; */
+     /* margin: 10px 10px 0px 100px; */
+    /* background-color: red; */
+     
+    
+     
+}
+  li{
+    display: inline-block;
+    
+  }
+  .bodyy23{
+    height: auto;
+    width: 1730px;
+    /* background-color: green; */
+ } 
+ .commingsoond16{
+  color: #fff;
+     margin: 15px 0px 0px 99px;
+     line-height: 50px;
+     font-weight: 450;
+ }

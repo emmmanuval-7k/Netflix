@@ -1,0 +1,44 @@
+ .cardcontainer16c {
+     display: grid;
+     /* padding: 100px 10px 100px 100px; */
+     grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+     grid-template-rows: repeat(auto-fit, minmax(110px, 0fr));
+     /* background-color: blue; */
+     margin: 25px 20px 0px 70px;
+ }
+
+ .commingsoonc {
+     color: #737373;
+     margin: 120px 0px 0px 70px;
+     line-height: 50px;
+     font-weight: 500;
+ }
+
+ .imgbox16c h3 {
+     color: #737373;
+     text-decoration-line: inherit;
+     font-weight: 450;
+     font-size: 16px;
+ }
+
+ .imgbox16c h5 {
+     color: #a3a3a3;
+ }
+
+ .commingsooncc {
+     color: #737373;
+     /* margin: 10px 0px 10px 70px; */
+padding: 90px 0px 80px 70px;
+ }
+ .english{
+    border: 1px solid  #737373;;
+    height: 45px;
+    width: 130px;
+    margin: 5px 0px 10px 70px;
+    color: #737373; 
+      
+     background-color: green;
+ }
+  
+   
+   
